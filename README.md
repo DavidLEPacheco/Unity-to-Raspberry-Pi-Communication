@@ -1,5 +1,4 @@
-# Arduino-to-Raspberry-Pi-Communication
-To communicate between Unity and Raspberry Pi using network sockets.
+# Unity to Raspberry Pi Communication
 
 This repository establishes communication between the Raspberry Pi (in Python) and the Unity game engine (in C#) using network sockets.
 It can be used for future projects which integrate VR/AR and real world systems.
