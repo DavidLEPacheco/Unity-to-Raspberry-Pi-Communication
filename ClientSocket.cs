@@ -16,7 +16,7 @@ public class ClientSocket : MonoBehaviour
     public NetworkStream theStream;
     StreamWriter theWriter;
     StreamReader theReader;
-    public String Host = "192.168.1.3";
+    public String Host = "192.168.1.7";
     public Int32 Port = 12345;
 
     void Start()
